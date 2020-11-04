@@ -15,7 +15,7 @@ Homework Answer for Java Serialization with Jackson
     "type": "D",
     "time": 1590050488701,
     "userId": "3",
-    "userName": "张三"
+    "~~userName~~": "张三"
 }
 ```
 
